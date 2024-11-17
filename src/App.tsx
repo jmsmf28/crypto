@@ -7,7 +7,7 @@ const App = () => {
   const [currentPage, setCurrentPage] = useState('converter');
 
   return (
-      <div className="min-h-screen bg-gray-100">
+      <div className="min-h-screen">
         <Header setPage={setCurrentPage} />
         <main className="p-4">
           {currentPage === 'converter' && <CryptoConverterPage />}
