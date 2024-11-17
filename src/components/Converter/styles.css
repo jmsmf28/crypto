@@ -1,6 +1,6 @@
 .currency {
   font-family: "Ubuntu", sans-serif;
-  font-weight: normal; /* Regular font weight */
+  font-weight: normal; 
   font-size: 24px;
   color: #454b51;
   letter-spacing: 0;
@@ -9,7 +9,7 @@
 
 .amount {
   font-family: "Ubuntu", sans-serif;
-  font-weight: bold; /* Regular font weight */
+  font-weight: bold; 
   font-size: 24px;
   color: #353a3e;
   letter-spacing: 0;
@@ -48,5 +48,5 @@
 }
 
 .container {
-  grid-template-columns: 192px 192px 49px 192px 192px;
+  grid-template-columns: 208px 208px 81px 208px 208px;
 }
