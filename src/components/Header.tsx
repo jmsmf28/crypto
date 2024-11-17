@@ -31,8 +31,7 @@ const Header: React.FC<HeaderProps> = ({ setPage }) => {
           TICKERS
         </button>
       </div>
-
-      {/* Fourth div - Empty or containing other content */}
+      
       <div className="flex-1 h-full border-b-2 p-7 "></div>
     </div>
   );

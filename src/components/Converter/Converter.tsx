@@ -77,7 +77,7 @@ const Converter = () => {
     <div className="flex flex-col items-center space-y-8 p-6">
       <Title title={" CRYPTO CALCULATOR"} />
       <div className="flex items-center justify-center">
-        <div className="grid grid-rows-2 grid-cols-5 p-4 m-6 container">
+        <div className="grid grid-rows-2 grid-cols-5" style={{ gridTemplateColumns: "208px 208px 69px 208px 208px" }}>
           {/* First Row */}
           <div className="flex items-end font-ubuntu font-bold text-[16px] text-[#256EA6] tracking-[0.81px] leading-[16px] mb-2 mr-4">
             From:
