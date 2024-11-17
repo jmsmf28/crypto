@@ -132,7 +132,7 @@ const Converter = () => {
       {/* Result */}
       {result !== null && (
         <div className="text-center">
-          <h2 className="font-ubuntu font-bold text-[16px] leading-[24px] text-[#21639C]">
+          <h2 className="font-ubuntu font-bold text-[16px] leading-[24px] text-[#21639C] mt-[78px]">
             RESULT
           </h2>
           <div className="mt-6">
