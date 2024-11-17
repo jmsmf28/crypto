@@ -1,0 +1,52 @@
+.currency {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: normal; /* Regular font weight */
+  font-size: 24px;
+  color: #454b51;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.amount {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold; /* Regular font weight */
+  font-size: 24px;
+  color: #353a3e;
+  letter-spacing: 0;
+  text-align: right;
+  line-height: 32px;
+}
+
+.button {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #f8f8f8;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 32px;
+}
+
+.description {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  color: #3c4247;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 32px;
+}
+
+.history {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 17.6px;
+  font-weight: bold;
+  color: #5f5f5b;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 17.92px;
+}
+
+.container {
+  grid-template-columns: 192px 192px 49px 192px 192px;
+}
